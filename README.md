@@ -1,4 +1,4 @@
-## Hi
+<h2 class="flex"><img src="https://media.tenor.com/QnLUWW9vbHEAAAAi/pearto-kasane-teto.gif" width="42" />Hi</h2>
 
 <p align="left">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloParraS&layout=compact&theme=react&cache_seconds=86400" />
