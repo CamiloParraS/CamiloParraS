@@ -8,21 +8,18 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RvZXhqNjVveTdndm1qZ3d2MDNpb2F5cDVoMjc3bXl6b2IyYTk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yNbPVhBcbKw9eZ6KtW/giphy.gif" width="150">
 </p> -->
 
-## GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CamiloParraS&theme=algolia&layout=compact"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloParraS&layout=compact&theme=react&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+<h4 align="center">
+  <img src="https://media1.tenor.com/m/0-RdIuJ_V4AAAAAC/no-money.gif" width="100" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Currently:
+  <span>Jobless</span>
+</h4>
+
+<h2 align="center">About Me </h2>
+<h4>HTML Aficionado</h4>
+
+<h2 align="center">My Stats </h2>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://ghstats.dev/api/card?username=camiloParraS&size=compact" alt="GitHub Stats Card" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=CamiloParraS&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400"
-    height="165"
-  />
-</p>
