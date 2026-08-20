@@ -11,7 +11,7 @@
 ## GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=CamiloParraS&show_icons=true&theme=react&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CamiloParraS&theme=algolia&layout=compact"
     height="165"
   />
   <img 
