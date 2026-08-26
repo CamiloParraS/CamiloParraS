@@ -21,6 +21,6 @@
 <h2 align="center">My Stats </h2>
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://ghstats.dev/api/card?username=camiloParraS&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=CamiloParraS&hide_border=true&hide_title=true&max_langs=11" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=CamiloParraS&hide_border=true&hide_title=true&max_langs=6" alt="Top Languages" />
 </p>
 
