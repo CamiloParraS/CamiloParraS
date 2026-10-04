@@ -9,10 +9,11 @@
 </p> -->
 
 <h4 align="center">
-  <img src="https://media1.tenor.com/m/0-RdIuJ_V4AAAAAC/no-money.gif" width="100" align="middle" />
+  <!-- <img src="https://media1.tenor.com/m/0-RdIuJ_V4AAAAAC/no-money.gif" width="100" align="middle" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Currently:
-  <span>Jobless</span>
+  <span>Jobless</span> -->
+  <img src="funny_image.jpg" width="300" align="middle" />
 </h4>
 
 <h2 align="center">About Me </h2>
